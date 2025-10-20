@@ -1,1 +1,1 @@
- create nft by owner
+ create nft by owner and change owner 
